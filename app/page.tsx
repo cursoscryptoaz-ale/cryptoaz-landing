@@ -1,9 +1,9 @@
 import { Hero } from "@/components/Hero";
 import { Ticker } from "@/components/Ticker";
 import { About } from "@/components/About";
-import { Team } from "@/components/Team";
 import { Offerings } from "@/components/Offerings";
 import { Newsletter } from "@/components/Newsletter";
+import { SocialLinks } from "@/components/SocialLinks";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
@@ -12,8 +12,8 @@ export default function Home() {
       <Hero />
       <Ticker />
       <About />
-      <Team />
       <Offerings />
+      <SocialLinks />
       <Newsletter />
       <Footer />
     </main>

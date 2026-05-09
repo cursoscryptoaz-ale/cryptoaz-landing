@@ -35,9 +35,10 @@ export function Footer() {
               info@cryptoaz.com.ar
             </Link>
           </nav>
-          <p className="text-xs" style={{ color: "var(--text-muted)" }}>
-            © 2026 Crypto AZ
-          </p>
+          <div className="text-xs text-right" style={{ color: "var(--text-muted)" }}>
+            <p>© 2026 Crypto AZ</p>
+            <p className="mt-1">Desarrollado por AIZ Solutions</p>
+          </div>
         </div>
       </div>
     </footer>

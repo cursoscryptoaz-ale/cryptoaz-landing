@@ -35,7 +35,7 @@ export function Hero() {
 
         {/* Eyebrow */}
         <p className="text-sm font-semibold tracking-[0.2em] uppercase mb-6" style={{ color: "var(--brand)" }}>
-          La academia argentina de criptomonedas y Web3
+          Academia latinoamericana de blockchain, criptomonedas y Web3
         </p>
 
         {/* Headline */}

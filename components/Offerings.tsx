@@ -4,13 +4,13 @@ import { ArrowRight } from "lucide-react";
 const offerings = [
   {
     title: "Membresias al campus",
-    desc: "Acceso completo a todos los cursos pregrabados, clases en vivo y workshops del trimestre. Una sola inversion, todo incluido.",
+    desc: "Acceso completo a todos los cursos pregrabados, clases en vivo, workshops y webinars incluidos en tu plan. Una sola inversion, todo incluido.",
     cta: "Ver membresias",
     href: "https://cryptoaz.store/#membresias",
   },
   {
     title: "Capacitaciones sueltas",
-    desc: "Compra cursos o workshops individuales sin necesidad de membresía. Acceso permanente a la grabacion y materiales.",
+    desc: "Compra cursos, workshops o webinars individuales sin necesidad de membresia. Acceso permanente a la grabacion y materiales.",
     cta: "Ver capacitaciones",
     href: "https://cryptoaz.store/#capacitaciones",
   },
